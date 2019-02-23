@@ -3,7 +3,7 @@
 ### A simple scatterplot showing the birth rates of various countries the year 2011 using [d3](https://d3js.org/) and Javascript.
 
 # Link to site
-[Click Here](https://rickyklu.github.io/birthdata2011)
+[Click Here](https://rickyklu.github.io/birthscatterplot)
 
 
 # Usage
